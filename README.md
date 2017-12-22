@@ -38,4 +38,4 @@ Program running:
 4. Neural Network Training: 
   a. We have trained the model ready for you, named as mymodel.h5. The real-time tweet collection will do the labeling process by itself. No more operations are needed here. 
  
-Youtube Link:
+Youtube Link: https://www.youtube.com/watch?v=saFlia2YIHQ
