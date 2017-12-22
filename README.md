@@ -23,8 +23,9 @@ EC2 instance for public access.
 
 Program running:
 1. website: 
-  a. cd ~/nodejs 
+  a. cd ~/nodejs
   b. run "npm install"
+  c. run "npm install mongodb", if needed
   c. open the url "localhost:2222" to see the result.
 
 2. data collections:
