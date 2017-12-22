@@ -26,7 +26,7 @@ mongo.connect(MONGO_URL,function(err,db){
     }
     console.log("MongoDB connected from 27017");
     io.on('connection',function(socket){
-        let chat = db.collection('twitter_search');
+        var chat = db.collection('twitter_search');
         socket.on('my other event',function(data){
             var key = data.key;
             console.log(key)
